@@ -1,0 +1,184 @@
+.button-xy{
+    background-color: rgb(241, 152, 152);
+    width: 200px;
+    border-radius: 20px;
+    padding: 8px;
+
+}
+.boxx-1{
+    background-color: rgb(179, 120, 114);
+
+    
+}
+.boxx-2{
+    background-color:#F9EFE5;
+}
+.boxx-3{
+    background-color: white;
+}
+.boxx-6{
+    background-color: aliceblue;
+    
+    
+    
+}
+.pabb{
+    background-color: #E56639;border-radius: 10px;
+    color: white;
+    padding: 15px;
+}
+.pabb:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 1px solid  #ff6c3c;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+}
+.crtt:hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid  #ff6c3c;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+}
+.crtt{
+    background-color: sandybrown;border-radius: 10px;padding: 20px;width: 150px;
+
+}
+.tamtam{
+    background-color: #ff6c3c;padding: 10px;
+    border-radius: 30px;
+    color: white;
+    
+}
+.tamtam :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid  #ff6c3c ;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+
+}
+.comptt{
+    background-color:  #ff6c3c;border-radius: 10px;padding: 20px;width: 150px;
+
+}
+.comptt :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid  #ff6c3c;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+
+}
+.druuuu{
+    background-color:  #ff6c3c; padding: 20px; color: white;
+}
+.druuuu :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid  #ff6c3c;
+    
+}
+.butxzy{
+    width: 50px;
+    padding-left: 15px;
+    
+}
+.sapna{
+    width: 20px;
+    padding-left: 15px;
+}
+.apple{
+    width: 5px;
+    padding-left: 15px;
+}
+.boll{
+    width: 20px;
+    padding-left: 15px;
+}
+.cat{
+    width: 20px;
+    padding-left: 15px;
+}
+.butt-x{
+    width: 20px;
+    padding-left: 15px;
+
+}
+.tsss{
+    width: 20px;
+    padding-left: 15px;
+}
+.zzzz{
+    width: 20px;
+    padding-left: 15px;
+}
+.bux-2{
+    background-color: #E56639;
+}
+.bux-1{
+    background-color: #E56639;
+    
+}
+.bux-3{
+    background-color: #E56639;
+
+}
+.bux-4{
+    background-color: #E56639;
+}
+.bux-5{
+    background-color: #E56639;
+}
+.bux-6{
+    background-color: #E56639;
+
+}
+.bux-6{
+    background-color: #E56639;
+}
+.bux-7{
+    background-color: #E56639;
+}
+.bux-8{
+    background-color: #E56639;
+}
+.photo-1:hover{
+    transform: scale(1.1);
+}
+.photo-2:hover{
+    transform: scale(1.1);
+}
+.photo-3:hover{
+    transform: scale(1.1);
+}
+.photo-4:hover{
+    transform: scale(1.1);
+}
+
+.photo-5:hover{
+    transform: scale(1.1);
+}
+
+.photo-6:hover{
+    transform: scale(1.1);
+}
+
+.photo-7:hover{
+    transform: scale(1.1);
+}
+
+.photo-8:hover{
+    transform: scale(1.1);
+}
+.text-overlay{
+    position: absolute;
+    top: 130px;
+    left: 115px;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 80px;
+    background-color: red(0,0,0,0.5);
+}
+
